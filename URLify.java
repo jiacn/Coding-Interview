@@ -1,5 +1,12 @@
 /**
  * Created by Jia on 2017/4/21.
+ * Write a method to replace all spaces in a string
+ * with '%20', and you are given a true length of the
+ * string. 
+ * EXAMPLE:
+ * Input:    "Mr John Smith   ", 13
+ * Output:   "Mr%20John%20Smith"
+ * 
  */
 public class URLify {
     void replaceSpaces(char[] str, int trueLength) {
